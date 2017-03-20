@@ -10,7 +10,7 @@ package com.julien.btsepreuvepratique;
         import android.view.ViewGroup;
 
 public class TabFragment3 extends Fragment {
-
+    // Utilisation de la bibliothèque Fragment
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         return inflater.inflate(R.layout.tab_fragment_3, container, false);
