@@ -1,4 +1,4 @@
-#Mon Mar 20 22:32:26 CET 2017
+#Tue Mar 21 21:53:42 CET 2017
 base.0=C\:\\Users\\julien\\Desktop\\Code\\BTSEpreuvePratique\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e523db5ce3aefd680c4f55315393f399450b32eb
 renamed.1=classes2.dex
 renamed.0=classes.dex

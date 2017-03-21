@@ -5,33 +5,47 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="21325122741950"
+    timestamp="32988684043915"
     token="3400796695227769764"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="8795" />
+        duration="266" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="20" />
     <task
         name="instant-run-transform"
-        duration="475" />
+        duration="37" />
     <task
         name="verifier"
-        duration="388" />
+        duration="5" />
 
     <artifact
-        location="C:\Users\julien\Desktop\Code\BTSEpreuvePratique\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\julien\Desktop\Code\BTSEpreuvePratique\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="21325122741950"
+        timestamp="32852801337869"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\julien\Desktop\Code\BTSEpreuvePratique\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="32933166321306"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\julien\Desktop\Code\BTSEpreuvePratique\app\build\intermediates\builds\debug\32933166321306\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="32988684043915"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\julien\Desktop\Code\BTSEpreuvePratique\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

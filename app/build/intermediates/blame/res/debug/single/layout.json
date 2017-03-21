@@ -136,6 +136,10 @@
         "source": "C:\\Users\\julien\\Desktop\\Code\\BTSEpreuvePratique\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_icon_group.xml"
     },
     {
+        "merged": "C:\\Users\\julien\\Desktop\\Code\\BTSEpreuvePratique\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_fragment_4.xml",
+        "source": "C:\\Users\\julien\\Desktop\\Code\\BTSEpreuvePratique\\app\\src\\main\\res\\layout\\tab_fragment_4.xml"
+    },
+    {
         "merged": "C:\\Users\\julien\\Desktop\\Code\\BTSEpreuvePratique\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "C:\\Users\\julien\\Desktop\\Code\\BTSEpreuvePratique\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
@@ -174,6 +178,10 @@
     {
         "merged": "C:\\Users\\julien\\Desktop\\Code\\BTSEpreuvePratique\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
         "source": "C:\\Users\\julien\\Desktop\\Code\\BTSEpreuvePratique\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\julien\\Desktop\\Code\\BTSEpreuvePratique\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calculatrice.xml",
+        "source": "C:\\Users\\julien\\Desktop\\Code\\BTSEpreuvePratique\\app\\src\\main\\res\\layout\\calculatrice.xml"
     },
     {
         "merged": "C:\\Users\\julien\\Desktop\\Code\\BTSEpreuvePratique\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",

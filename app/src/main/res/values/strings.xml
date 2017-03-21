@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">BTS Epreuve Pratique</string>
+    <string name="nbre1">Entrez le nombre 1</string>
+    <string name="nbre2">Entrez le nombre 2</string>
+    <string name="resultat">Resultat</string>
 </resources>

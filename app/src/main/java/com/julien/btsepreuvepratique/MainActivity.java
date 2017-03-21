@@ -20,9 +20,10 @@ public class MainActivity extends AppCompatActivity {
 
         // Implementation des vues dans l'activity principale
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tab_layout);
-        tabLayout.addTab(tabLayout.newTab().setText("Tab 1"));
-        tabLayout.addTab(tabLayout.newTab().setText("Tab 2"));
-        tabLayout.addTab(tabLayout.newTab().setText("Tab 3"));
+        tabLayout.addTab(tabLayout.newTab().setText("GitHub"));
+        tabLayout.addTab(tabLayout.newTab().setText("Google"));
+        tabLayout.addTab(tabLayout.newTab().setText("Jeux"));
+        tabLayout.addTab(tabLayout.newTab().setText("Calculatrice"));
         tabLayout.setTabGravity(TabLayout.GRAVITY_FILL);
 
         // Implementation de PageViewrs
@@ -35,17 +36,17 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onTabSelected(TabLayout.Tab tab) {
                 viewPager.setCurrentItem(tab.getPosition());
-                // Ajout de code içi
+                
             }
 
             @Override
             public void onTabUnselected(TabLayout.Tab tab) {
-                // Ajout de coode içi
+
             }
 
             @Override
             public void onTabReselected(TabLayout.Tab tab) {
-                // Ajout de coode içi
+
             }
         });
     }
